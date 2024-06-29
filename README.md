@@ -47,9 +47,6 @@ The main objectives of this project are detailed in the `Objective.docx` file. I
 
 The results of the analysis are provided in the `Output Data.xlsx` file and further detailed in the `Text Analysis.docx` document.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
 
@@ -57,4 +54,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com].
+For any questions or inquiries, please contact [saus.cse@gmail.com].
